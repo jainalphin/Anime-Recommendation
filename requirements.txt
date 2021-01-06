@@ -10,3 +10,4 @@ regex==2020.10.15
 pandas>=0.19
 jsonschema==3.2.0
 requests==2.23.0
+scikit-learn==0.22.2
