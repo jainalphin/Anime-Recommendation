@@ -1,8 +1,8 @@
 # Anime Recommendation System
 <center> <img src="img/anime.jpg" alt="Anime" class="center"> </center>
-It is based on content based recommendation system
+It is built on **content based recommendation** concept
 
-I have built the system based on:
+Concepts on which system is built on:
    * unsupervised algorithm nearest neighbor.
    * This algorithm will find k nearest data point which will be the recommended anime to watch.
    * then I have used cosine similarity as the metric for the algorithm.
