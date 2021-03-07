@@ -1,4 +1,5 @@
 # Anime Recommendation System
+<center> <img src="img/anime.jpg" alt="Anime" class="center"> </center>
 It is based on content based recommendation system
 
 I have built the system based on:
