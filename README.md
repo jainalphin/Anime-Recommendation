@@ -1,6 +1,6 @@
 # Anime Recommendation System
 <center> <img src="img/anime.jpg" alt="Anime" class="center"> </center>
-It is built on **content based recommendation** concept
+It is built on content based recommendation concept
 
 Concepts on which system is built on:
    * unsupervised algorithm nearest neighbor.
